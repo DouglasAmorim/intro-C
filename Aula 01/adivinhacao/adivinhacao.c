@@ -7,6 +7,10 @@ int main() {
 	printf("***********************\n");
 
 	int numeroSecreto = 42;
+	int chute;
 
-	printf("O numero é %d: \n", numeroSecreto );
+	printf("Qual seu palpite? \n");
+	scanf("%d", &chute);
+
+	printf("Seu chute foi %d\n", chute);
 }
