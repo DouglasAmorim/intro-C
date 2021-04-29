@@ -6,8 +6,8 @@ Link para as aulas:  [Alura](https://cursos.alura.com.br/course/introducao-a-pro
 Assustos tratados nessa revisão: 
 - printf/scanf
 ~~~C
-printf("Qual seu palpite? \n");
-scanf("%d", &chute);
+	printf("Qual seu palpite? \n");
+	scanf("%d", &chute);
 ~~~
 
 - if/else
@@ -57,5 +57,5 @@ while(numero == 1) {
 ~~~
 
 ### Revisão da linguagem Markdown
-*Refazer o MD desse readme*
-Guia basico de uso de [MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open "guia")
+:*Refazer o MD desse readme*
+:Guia basico de uso de [MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open "guia")
